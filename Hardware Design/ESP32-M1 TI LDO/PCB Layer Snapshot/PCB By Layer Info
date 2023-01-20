@@ -1,0 +1,6 @@
+This folders contains snapshot of the PCB.
+
+1. Top Layer - Component placment, General routing and RF routing.
+2. Inner Layer 1 - Ground.
+3. Inner Layer 2 - Power Layer and Ground.
+4. Bottom Layer - General routing.
